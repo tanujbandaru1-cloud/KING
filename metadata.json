@@ -1,0 +1,6 @@
+{
+  "name": "Aegis LKA - Lane Keeping Assistant",
+  "description": "Real-time perception and control system for autonomous lane keeping, featuring EKF sensor fusion and PID steering control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Real-time Data Streaming", "Computer Vision", "Control Systems"]
+}
